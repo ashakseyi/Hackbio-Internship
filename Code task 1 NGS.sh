@@ -1,6 +1,6 @@
 #Move to your working directory using cd Oluwaseyi_Ashaka
 Use one line of command to get the sequence file
-wget wget https://github.com/rieseberglab/fastq-examples/raw/refs/heads/master/data/HI.4019.002.index_7.ANN0831_R1.fastq.gz 
+wget https://github.com/rieseberglab/fastq-examples/raw/refs/heads/master/data/HI.4019.002.index_7.ANN0831_R1.fastq.gz 
 #Use ls to check the downloaded file
 #Use the fastqc command to do the quality check on the downloaded reads
 fastqc HI.4019.002.index_7.ANN0831_R1.fastq.gz
