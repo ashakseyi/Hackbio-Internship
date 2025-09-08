@@ -46,4 +46,5 @@ cp trim.sh raw_reads/
 
 bash trim.sh
 #This will execute the command 
-Use ls qc_reads to check the html files created
+#Use ls qc_reads to check the html files created
+#Note that the output of fastp can be subjected to fastqc, and the report can be checked with multiqc 
