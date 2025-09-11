@@ -18,3 +18,4 @@ scp -r pasteur@135.181.163.242:/home/pasteur/Oluwaseyi/raw_reads/IGV/ACBarrie_so
 #open the webpage https://igv.org/app/ on a web browser
 #Look for the reference genome or upload the website
 #At the track tab upload both the .bam and .bai files for visualization
+#Find the visuals https://github.com/ashakseyi/Hackbio-Internship/blob/084e6018069f49e6418543f0034b6d05dd0ad5b2/IGV%20Visualization%20mapping%20reads%20to%20a%20genome.png
